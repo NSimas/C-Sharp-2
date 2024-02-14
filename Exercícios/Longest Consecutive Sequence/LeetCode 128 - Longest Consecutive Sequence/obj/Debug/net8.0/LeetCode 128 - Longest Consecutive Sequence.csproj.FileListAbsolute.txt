@@ -1,0 +1,5 @@
+C:\Users\nelia\source\repos\C-Sharp-3\Exercícios\Longest Consecutive Sequence\LeetCode 128 - Longest Consecutive Sequence\obj\Debug\net8.0\LeetCode 128 - Longest Consecutive Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nelia\source\repos\C-Sharp-3\Exercícios\Longest Consecutive Sequence\LeetCode 128 - Longest Consecutive Sequence\obj\Debug\net8.0\LeetCode 128 - Longest Consecutive Sequence.AssemblyInfoInputs.cache
+C:\Users\nelia\source\repos\C-Sharp-3\Exercícios\Longest Consecutive Sequence\LeetCode 128 - Longest Consecutive Sequence\obj\Debug\net8.0\LeetCode 128 - Longest Consecutive Sequence.AssemblyInfo.cs
+C:\Users\nelia\source\repos\C-Sharp-3\Exercícios\Longest Consecutive Sequence\LeetCode 128 - Longest Consecutive Sequence\obj\Debug\net8.0\LeetCode 128 - Longest Consecutive Sequence.csproj.CoreCompileInputs.cache
+C:\Users\nelia\source\repos\C-Sharp-3\Exercícios\Longest Consecutive Sequence\LeetCode 128 - Longest Consecutive Sequence\obj\Debug\net8.0\LeetCode 128 - Longest Consecutive Sequence.sourcelink.json

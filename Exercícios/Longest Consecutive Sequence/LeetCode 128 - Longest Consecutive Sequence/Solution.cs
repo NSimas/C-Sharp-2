@@ -1,4 +1,13 @@
-﻿public class Solution
+﻿//Dada uma array não classificada de números inteiros,
+//retorne o comprimento da sequência de elementos
+//consecutivos mais longa.
+
+//exemplo 1: Input: nums = [100,4,200,1,3,2] | Output: 4
+//A sequência mais longa é [1, 2, 3, 4], seu comprimento é 4.
+
+//exemplos 2: Input: nums = [0,3,7,2,5,8,4,6,0,1] | Output: 9
+
+public class Solution
 {
     //aqui criamos nosso int que receberá os ints chamados nums
     public int LongestConsecutive(int[] nums)
