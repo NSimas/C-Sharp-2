@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\nelia\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\nelia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nelia\\source\\repos\\C-Sharp-3\\Exercícios\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence.csproj",
+      "projectUniqueName": "C:\\Users\\nelia\\OneDrive\\Documents\\GitHub\\C-Sharp-3\\Exercícios\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence.csproj",
       "projectName": "LeetCode 128 - Longest Consecutive Sequence",
-      "projectPath": "C:\\Users\\nelia\\source\\repos\\C-Sharp-3\\Exercícios\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence.csproj",
+      "projectPath": "C:\\Users\\nelia\\OneDrive\\Documents\\GitHub\\C-Sharp-3\\Exercícios\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence.csproj",
       "packagesPath": "C:\\Users\\nelia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nelia\\source\\repos\\C-Sharp-3\\Exercícios\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\obj\\",
+      "outputPath": "C:\\Users\\nelia\\OneDrive\\Documents\\GitHub\\C-Sharp-3\\Exercícios\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
         "C:\\Users\\nelia\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
