@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/home/codespace/.nuget/packages/": {}
+    "C:\\Users\\nelia\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/workspaces/C-Sharp-3/Exercícios/Longest Consecutive Sequence/LeetCode 128 - Longest Consecutive Sequence/LeetCode 128 - Longest Consecutive Sequence.csproj",
+      "projectUniqueName": "C:\\Users\\nelia\\OneDrive\\Documents\\GitHub\\C-Sharp-3\\Exercícios\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence.csproj",
       "projectName": "LeetCode 128 - Longest Consecutive Sequence",
-      "projectPath": "/workspaces/C-Sharp-3/Exercícios/Longest Consecutive Sequence/LeetCode 128 - Longest Consecutive Sequence/LeetCode 128 - Longest Consecutive Sequence.csproj",
-      "packagesPath": "/home/codespace/.nuget/packages/",
-      "outputPath": "/workspaces/C-Sharp-3/Exercícios/Longest Consecutive Sequence/LeetCode 128 - Longest Consecutive Sequence/obj/",
+      "projectPath": "C:\\Users\\nelia\\OneDrive\\Documents\\GitHub\\C-Sharp-3\\Exercícios\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence.csproj",
+      "packagesPath": "C:\\Users\\nelia\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nelia\\OneDrive\\Documents\\GitHub\\C-Sharp-3\\Exercícios\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/codespace/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\nelia\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
