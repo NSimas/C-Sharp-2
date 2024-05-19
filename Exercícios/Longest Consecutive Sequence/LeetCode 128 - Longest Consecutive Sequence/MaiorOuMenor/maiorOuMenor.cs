@@ -1,6 +1,6 @@
 using System;
 
-class Program
+class maiorOuMenor
 {
     static void Main(string[] args)
     {
