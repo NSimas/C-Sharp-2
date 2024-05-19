@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LeetCode 128 - Longest Consecutive Sequence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+786befa2c97c5b620e4bbfd9afccd468ea465fba")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d94f06b2424dfb9da5b9619ad635c756a9f2b1d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("LeetCode 128 - Longest Consecutive Sequence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LeetCode 128 - Longest Consecutive Sequence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
