@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LeetCode_128___Longest_Consecutive_Sequence
-build_property.ProjectDir = C:\Users\nelia\OneDrive\Documents\GitHub\C-Sharp-3\Exercícios\Longest Consecutive Sequence\LeetCode 128 - Longest Consecutive Sequence\
+build_property.ProjectDir = /workspaces/C-Sharp-3/Exercícios/Longest Consecutive Sequence/LeetCode 128 - Longest Consecutive Sequence/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
