@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D5LcmD8KMOib+PqWvqYe+pK+ZSAtT3rWfwiMM6FPi3FS4SNw4tNcpWANbeUwcJpRzjCyx/NSnESJNyv35QJR6g==",
+  "dgSpecHash": "SHcFfUBmZc1xrP0Upne8M0wBnpTRMO9M8b3DAfp3gEZ5Y73HfUNeRMEBhtuaYo0gOGEaIvtUOEl/rYdPJHWQkQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nelia\\OneDrive\\Documents\\GitHub\\C-Sharp-3\\Exercícios\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence.csproj",
+  "projectFilePath": "C:\\Users\\nelia\\OneDrive\\Documents\\GitHub\\C-Sharp-3\\Exercicio0002\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

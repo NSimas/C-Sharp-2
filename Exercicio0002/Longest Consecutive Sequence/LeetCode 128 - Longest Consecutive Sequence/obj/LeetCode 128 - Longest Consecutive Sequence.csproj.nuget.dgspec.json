@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nelia\\OneDrive\\Documents\\GitHub\\C-Sharp-3\\Exercícios\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence.csproj": {}
+    "C:\\Users\\nelia\\OneDrive\\Documents\\GitHub\\C-Sharp-3\\Exercicio0002\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nelia\\OneDrive\\Documents\\GitHub\\C-Sharp-3\\Exercícios\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence.csproj": {
+    "C:\\Users\\nelia\\OneDrive\\Documents\\GitHub\\C-Sharp-3\\Exercicio0002\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nelia\\OneDrive\\Documents\\GitHub\\C-Sharp-3\\Exercícios\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence.csproj",
+        "projectUniqueName": "C:\\Users\\nelia\\OneDrive\\Documents\\GitHub\\C-Sharp-3\\Exercicio0002\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence.csproj",
         "projectName": "LeetCode 128 - Longest Consecutive Sequence",
-        "projectPath": "C:\\Users\\nelia\\OneDrive\\Documents\\GitHub\\C-Sharp-3\\Exercícios\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence.csproj",
+        "projectPath": "C:\\Users\\nelia\\OneDrive\\Documents\\GitHub\\C-Sharp-3\\Exercicio0002\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence.csproj",
         "packagesPath": "C:\\Users\\nelia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nelia\\OneDrive\\Documents\\GitHub\\C-Sharp-3\\Exercícios\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\obj\\",
+        "outputPath": "C:\\Users\\nelia\\OneDrive\\Documents\\GitHub\\C-Sharp-3\\Exercicio0002\\Longest Consecutive Sequence\\LeetCode 128 - Longest Consecutive Sequence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nelia\\AppData\\Roaming\\NuGet\\NuGet.Config",
